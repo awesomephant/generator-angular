@@ -23,9 +23,9 @@ describe('Angular generator file creation', function () {
     'bower.json'
   ];
   var mockPrompts = {
-    compass: true,
+    sass: true,
     bootstrap: true,
-    compassBootstrap: true,
+    sassBootstrap: true,
     modules: []
   };
   var genOptions = {

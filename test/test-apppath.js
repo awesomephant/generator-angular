@@ -24,9 +24,9 @@ describe('Angular generator appPath option', function () {
     'bower.json'
   ];
   var mockPrompts = {
-    compass: true,
+    sass: true,
     bootstrap: true,
-    compassBootstrap: true,
+    sassBootstrap: true,
     modules: []
   };
   var genOptions = {

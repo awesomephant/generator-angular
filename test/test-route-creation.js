@@ -18,9 +18,9 @@ describe('Angular generator route', function () {
     'skip-message': true
   };
   var mockPrompts = {
-    compass: true,
+    sass: true,
     bootstrap: true,
-    compassBootstrap: true,
+    sassBootstrap: true,
     modules: ['routeModule']
   };
 
